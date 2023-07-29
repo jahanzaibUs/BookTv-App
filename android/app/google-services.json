@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "327791626541",
+    "project_id": "booktv",
+    "storage_bucket": "booktv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327791626541:android:b3d08ee3f51e6fb4706ba4",
+        "android_client_info": {
+          "package_name": "com.booktvhk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327791626541-qh44sb5kkvt34vmec7cs67c7pit6h87i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booktvhk",
+            "certificate_hash": "fab37c7ec2ffdbffc3dfe8236141233c6dd91dab"
+          }
+        },
+        {
+          "client_id": "327791626541-voaacnq4rfpt6f6dh7te73c0e3hf8b1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqhgjIf6q7MRXYapGln-K5hyTgddjGCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327791626541-voaacnq4rfpt6f6dh7te73c0e3hf8b1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327791626541-doe4rcaht21791kvqbnudkqp8ke73ic3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.booktvhk.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327791626541:android:2f136319d516faec706ba4",
+        "android_client_info": {
+          "package_name": "com.booktvhk.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327791626541-895aiitnsgfgt30cv4nonko2amg6lppf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booktvhk.android",
+            "certificate_hash": "fab37c7ec2ffdbffc3dfe8236141233c6dd91dab"
+          }
+        },
+        {
+          "client_id": "327791626541-voaacnq4rfpt6f6dh7te73c0e3hf8b1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqhgjIf6q7MRXYapGln-K5hyTgddjGCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327791626541-voaacnq4rfpt6f6dh7te73c0e3hf8b1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327791626541-doe4rcaht21791kvqbnudkqp8ke73ic3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.booktvhk.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

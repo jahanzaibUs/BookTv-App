@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "懶人讀書會",
+    "slug": "booktv",
+    "version": "1.0.8",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "booktvhk",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#FF7500"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.booktvhk.ios",
+      "buildNumber": "1.0.2",
+      "supportsTablet": true,
+      "requireFullScreen": true,
+      "infoPlist": {
+        "UIBackgroundModes": ["audio"]
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.booktvhk",
+      "versionCode": 2,
+      "icon": "./assets/images/icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "description": "Prototype V2 (New UI)",
+    "plugins": ["@react-native-google-signin/google-signin"]
+  }
+}

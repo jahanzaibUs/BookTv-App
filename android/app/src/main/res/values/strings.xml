@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">懶人讀書會</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">cover</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="facebook_app_id">1010088539647162</string>
+  <string name="fb_login_protocol_scheme">fb1010088539647162</string>
+  <string name="facebook_client_token">5f23595a88c7fcc8272abf1db603b589</string>
+</resources>

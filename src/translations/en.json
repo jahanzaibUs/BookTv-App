@@ -1,0 +1,10 @@
+{
+  "en": "Englsih",
+  "APP_NAME": "Lazy Reading Club",
+
+  "LessonOrder": "Lesson {{order}}",
+  "MAX_OPTIONS": "Maximum {{count}} options",
+  "ABOVE_PRICE": "Above ${{price}}",
+  "BELOW_PRICE": "Below ${{price}}",
+  "SEARCH_PLACEHOLDER": "Search for lesson"
+}
