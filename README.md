@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# BookTv-App
-hoping to help everyone do two things through this platform
-=======
 # 懶人讀書會
 
 <img src="./screenshots/video-lesson-xd.png" width="auto" height="400" />
@@ -165,4 +161,3 @@ Get Key hashes for Facebook Login
 ```sh
 keytool -exportcert -alias booktv -keystore booktv-keystore | openssl sha1 -binary | openssl base64
 ```
->>>>>>> 09a160c5 (add git)
